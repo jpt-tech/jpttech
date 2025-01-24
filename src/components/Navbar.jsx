@@ -22,9 +22,10 @@ const Navbar = () => {
         <a href="tel:+2348105348110" target="_blank" rel="noopener noreferrer">
           <i className="fa fa-phone"></i>
         </a>
-        <a href="jpttech95@gmail.com">
-          <i className="fas fa-envelope"></i>
-        </a>
+        <a href="mailto:jpttech95@gmail.com">
+  <i className="fas fa-envelope"></i>
+</a>
+
       </div>
     </nav>
   );
