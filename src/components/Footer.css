@@ -1,7 +1,18 @@
 .container{
  color: white;
+ text-align: center;
+ align-items: center;
+ justify-content: center;
 }
 
 .section{
     background-color: black;
+    justify-content: center;
+    text-align: center;
+}
+
+.fufu{
+    text-align: center;
+    justify-content: center;
+    align-self: center;
 }

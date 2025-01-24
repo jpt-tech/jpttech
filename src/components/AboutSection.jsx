@@ -35,42 +35,42 @@ const AboutMe = () => {
       <div className="technologies-section">
         <h2>Technologies</h2>
         <div className="technology-icons">
-          <motion.div className="tech-icon" {...bounceAnimation}>
+          <div className="tech-icon" {...bounceAnimation}>
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
               alt="React"
             />
-          </motion.div>
-          <motion.div className="tech-icon" {...bounceAnimation}>
+          </div>
+          <div className="tech-icon" {...bounceAnimation}>
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
               alt="Node.js"
             />
-          </motion.div>
-          <motion.div className="tech-icon" {...bounceAnimation}>
+          </div>
+          <div className="tech-icon" {...bounceAnimation}>
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
               alt="JavaScript"
             />
-          </motion.div>
-          <motion.div className="tech-icon" {...bounceAnimation}>
+          </div>
+          <div className="tech-icon" {...bounceAnimation}>
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
               alt="MongoDB"
             />
-          </motion.div>
-          <motion.div className="tech-icon" {...bounceAnimation}>
+          </div>
+          <div className="tech-icon" {...bounceAnimation}>
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
               alt="PostgreSQL"
             />
-          </motion.div>
-          <motion.div className="tech-icon" {...bounceAnimation}>
+          </div>
+          <div className="tech-icon" {...bounceAnimation}>
             <img
               src="https://res.cloudinary.com/daxeovezx/image/upload/v1737673322/tailwind-css-svgrepo-com_1_p7thsm.svg"
               alt="Tailwind CSS"
             />
-          </motion.div>
+          </div>
         </div>
       </div>
     </section>

@@ -24,9 +24,9 @@ const projects = [
   },
 
   {
-    title: "SH-FEET",
+    title: "Sh-Feet",
     description:
-      "Kreate is an innovative platform designed to streamline the job market by connecting employers and job seekers seamlessly. Employers can post job listings with detailed descriptions, requirements, and expectations, while job seekers can browse opportunities, submit applications, and manage their profiles.",
+      "SH-FEET is a handcrafted leather footwear brand offering a wide range of stylish, durable, and comfortable designs. The website showcases a collection of meticulously handmade shoes that reflect quality craftsmanship and timeless elegance. Whether for casual or formal occasions.",
     image: "https://res.cloudinary.com/daxeovezx/image/upload/v1737654732/Screenshot_2025-01-23_185140_ssyxhf.png", // Replace with your image URL
     github: "#",
     live: "https://www.shfeet.com.ng/",
@@ -36,7 +36,7 @@ const projects = [
   {
     title: "Epochouse",
     description:
-      "Kreate is an innovative platform designed to streamline the job market by connecting employers and job seekers seamlessly. Employers can post job listings with detailed descriptions, requirements, and expectations, while job seekers can browse opportunities, submit applications, and manage their profiles.",
+      "Epochouse is a dynamic platform for a cutting-edge recording studio and band. The website highlights their state-of-the-art facilities, professional sound production services, and live performances. With a talented in-house band, Epochouse bridges the gap between exceptional studio recording and electrifying live music experiences.",
     image: "https://res.cloudinary.com/daxeovezx/image/upload/v1737654732/Screenshot_2025-01-23_185041_kux3in.png", // Replace with your image URL
     github: "#",
     live: "https://www.epochousepro.com/",
@@ -46,7 +46,7 @@ const projects = [
   {
     title: "Oden Unlimited",
     description:
-      "Kreate is an innovative platform designed to streamline the job market by connecting employers and job seekers seamlessly. Employers can post job listings with detailed descriptions, requirements, and expectations, while job seekers can browse opportunities, submit applications, and manage their profiles.",
+      "Oden Lounge is a premium destination for exquisite dining and relaxation. This website showcases a modern lounge that offers a wide selection of delicious meals and expertly crafted drinks. Whether you're looking for a vibrant social spot or a laid-back evening with friends, Oden Lounge delivers an unparalleled experience.",
     image: "https://res.cloudinary.com/daxeovezx/image/upload/v1737663514/Screenshot_2025-01-23_211756_xqwady.png", // Replace with your image URL
     github: "#",
     live: "https://oden-lounge-2g4t.vercel.app/",
@@ -56,7 +56,7 @@ const projects = [
   {
     title: "Diadem Foods",
     description:
-      "Kreate is an innovative platform designed to streamline the job market by connecting employers and job seekers seamlessly. Employers can post job listings with detailed descriptions, requirements, and expectations, while job seekers can browse opportunities, submit applications, and manage their profiles.",
+      "Diadem Foods is your go-to destination for homemade, finger-licking delicacies. The website offers a mouthwatering array of freshly prepared meals made with the finest ingredients. Whether you're craving traditional favorites or new flavors, Diadem Foods promises an unforgettable culinary experience that feels just like home.",
     image: "https://res.cloudinary.com/daxeovezx/image/upload/v1737666116/Screenshot_2025-01-23_215841_or7s72.png", // Replace with your image URL
     github: "#",
     live: "https://www.diademfoods.com/",
@@ -67,7 +67,7 @@ const projects = [
   {
     title: "Monogram",
     description:
-      "Monogram is an e-commerce website clone with the functionality of 'Add to cart' made with React JS.",
+      "Monogram is a sleek e-commerce website clone offering a seamless shopping experience. With features like 'Add to Cart' and a visually appealing layout, it provides a modern interface for showcasing products. Perfect for exploring how an online store can look and function, Monogram delivers style and functionality.",
     image: "https://res.cloudinary.com/daxeovezx/image/upload/v1737654413/Screenshot_2025-01-23_184408_an2x2k.png", // Replace with your image URL
     github: "#",
     live: "https://monogram-five.vercel.app/#",
@@ -76,7 +76,7 @@ const projects = [
   {
     title: "Finance Flow",
     description:
-      "Finance Flow is a sleek, user-friendly frontend platform designed for showcasing cryptocurrency trading and holding capabilities. It features detailed sections about pricing, tokens, and tips.",
+      "Finance Flow is a sleek and intuitive platform designed to simplify cryptocurrency trading and portfolio management. The website features detailed sections on real-time pricing, token insights, and expert trading tips, providing users with a comprehensive guide to navigating the world of digital assets with confidence and ease.",
     image: "https://res.cloudinary.com/daxeovezx/image/upload/v1737654411/Screenshot_2025-01-23_184515_tywjq7.png", // Replace with your image URL
     github: "#",
     live: "https://onojapeter.github.io/Finance-Flow/home.html",
@@ -126,3 +126,5 @@ const Projects = () => {
 };
 
 export default Projects;
+
+

@@ -54,7 +54,7 @@
   }
   
 
-  @media (max-width: 500px) {
+  @media (max-width: 600px) {
     .navbar-right a {
         color: #fff;
         font-size: 1rem;

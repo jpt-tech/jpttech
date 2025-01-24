@@ -11,7 +11,7 @@ const Footer = () => {
       transition={{ duration: 1 }}
     >
       <div className="container">
-        <p>&copy; 2025 JPT Technologies. All Rights Reserved.</p>
+        <p className="fufu">&copy; 2025 JPT Technologies. All Rights Reserved.</p>
       </div>
     </motion.footer>
   );
