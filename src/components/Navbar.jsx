@@ -6,10 +6,12 @@ const Navbar = () => {
     <nav className="navbar">
       {/* Left Section */}
       <div className="navbar-left">
-        
-        <span className="logo">{"</>"} JPT</span>
-        <hr className="navbar-line" />
-      </div>
+  <a href="/" className="home-link">
+    <span className="logo">{"</>"} JPT</span>
+    <hr className="navbar-line" />
+  </a>
+</div>
+
 
       {/* Right Section */}
       <div className="navbar-right">
