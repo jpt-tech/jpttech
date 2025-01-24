@@ -55,10 +55,9 @@ const ContactForm = () => {
   return (
     <section id="contact" className="contact-section">
       <div className="container">
-        <h1 className="contact-title">Contact Me</h1>
+        <h1 className="contact-title">Contact Us</h1>
         <p className="contact-subtitle">
-          You might want to develop a website, application, or discuss anything
-          related. Feel free to leave a message below.
+        Got questions or need assistance? Reach out to us at JPT Technologies! Fill out the form below, and our team will get back to you promptly. We’re here to help!
         </p>
         <form className="contact-form" onSubmit={handleSubmit}>
           <div className="form-group">

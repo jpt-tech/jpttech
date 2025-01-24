@@ -34,6 +34,25 @@ const experiences = [
       'The team collaborated to develop Oden Unlimited, leveraging Node.js, MongoDB, and EJS. Responsible for translating design concepts into responsive web elements, managing debugging processes, and implementing features such as page rendering and automated transactions.',
     tags: ['Nodejs', 'MongoDB', 'EJS'],
   },
+
+  {
+    date: 'Dec 2024 - Present',
+    role: 'Fullstack developer',
+    company: 'SH-Feet',
+    description:
+      'The team  developed SH_FEET, leveraging Node.js, MongoDB, and EJS. Responsible for translating design concepts into responsive web elements, managing debugging processes, and implementing features such as page rendering and automated transactions.',
+    tags: ['Nodejs', 'MongoDB', 'EJS'],
+  },
+
+  {
+    date: 'Oct 2024 - Present',
+    role: 'Fullstack developer',
+    company: 'Epochouse',
+    description:
+      'The team collaborated to develop Epochousepro, leveraging Node.js, MongoDB, and EJS, firebase. Responsible for translating design concepts into responsive web elements, managing debugging processes, and implementing features such as Blog page, Admin Access, page rendering and automated transactions.',
+    tags: ['Nodejs', 'MongoDB', 'EJS', 'Firebase'],
+  },
+
 ];
 
 const Experiences = () => {
