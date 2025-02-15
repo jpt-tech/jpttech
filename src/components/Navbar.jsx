@@ -1,5 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaGithub, FaInstagram, FaTwitter } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaEnvelope, FaPhone } from "react-icons/fa";
 
 const Navbar = () => {
   return (
@@ -33,20 +33,16 @@ const Navbar = () => {
           <FaGithub />
         </a>
         <a
-          href="https://twitter.com"
+          href="mailto:jpttech95@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-blue-400 transition"
         >
-          <FaTwitter />
+          <FaEnvelope />
         </a>
-        <a
-          href="https://instagram.com"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="hover:text-pink-500 transition"
-        >
-          <FaInstagram />
+
+        <a href="tel:+2348105348110" className="hover:text-pink-500 transition">
+          <FaPhone />
         </a>
       </div>
     </nav>
