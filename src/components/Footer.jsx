@@ -1,19 +1,14 @@
 import React from "react";
-import { motion } from "framer-motion";
-import "./Footer.css";
 
 const Footer = () => {
   return (
-    <motion.footer
-      className="sectionss"
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      transition={{ duration: 1 }}
-    >
-      <div className="containerss">
-        <p className="fufu">&copy; 2025 JPT Technologies. All Rights Reserved.</p>
+    <footer className=" text-white py-6">
+      <div className="container mx-auto text-center px-4">
+        <p className="text-sm md:text-base">
+          &copy; 2025 JPT Technologies. All Rights Reserved.
+        </p>
       </div>
-    </motion.footer>
+    </footer>
   );
 };
 

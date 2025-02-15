@@ -1,16 +1,6 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  scroll-behavior: smooth;
-  overflow-x: hidden;
+@import url("https://fonts.googleapis.com/css2?family=Corinthia:wght@400;700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Ysabeau+Office:ital,wght@0,1..1000;1,1..1000&display=swap");
+@import "tailwindcss";
+
+:root {
+  font-family: "inter", sans-serif;
 }
-
-body {
-  font-family: "Arial", sans-serif;
-  color: #333;
-  line-height: 1.6;
-  overflow-x: hidden;
-}
-
-
