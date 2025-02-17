@@ -14,7 +14,7 @@ const Navbar = () => {
         </a>
       </div>
 
-      {/* Social Media Links */}
+    
       <div className="flex items-center justify-center gap-4 text-xl text-white">
         <a
           href="https://www.linkedin.com"

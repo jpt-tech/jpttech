@@ -1,5 +1,5 @@
 import React from "react";
-import heroImage from "../assets/hero-image.png";
+import heroImage from "../assets/hero-images.png";
 import { HERO_CONTENT } from "../constants";
 import { motion } from "framer-motion";
 
